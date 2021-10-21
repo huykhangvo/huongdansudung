@@ -1,12 +1,29 @@
 ## Hướng Dẫn Sử Dụng Hệ Thống Trắc Nghiệm Online
-# http://vohuykhang.freevnn.com/
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+Thực hiện: Võ Huy Khang - Email: huykhangvo02092000@gmail.com
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
+Thời gian bắt đầu: Ngày 21 tháng 10 năm 2021
+
+##### http://vohuykhang.freevnn.com/
+
+### Giới thiệu
+
+- Tôi đang học đầu năm 4 khoa CNTT. Tôi làm web này để phục vụ cho việc ôn tập, ôn thi các môn học trong thời gian tôi học Đại học..
+- Mục tiêu: Xây dựng ✨hệ thống trắc nghiệm online✨ , thay thế cách thức làm bài tập và kiểm tra truyền thống.
+
+##### Tính Năng
+
+```
+- Dễ dàng cài đặt và quản lý, không cần kiến thức lập trình
+- Giao diện làm bài trực quan, hỗ trợ hiển thị công thức LaTeX
+- Tự động lưu trạng thái làm bài của học sinh, thoát ra vào lại không bị mất bài đang làm
+- Có thể xem điểm và xem lại bài thi sau khi nộp bài
+- Hỗ trợ nhập công thức bằng LaTeX
+- Hỗ trợ nhập liệu bằng file Excel
+- Có thể xuất file Excel điểm của từng bài thi
+- Câu hỏi phân loại theo mức độ: dễ, khó, trung bình, và phân loại theo chương: 1, 2, 3,...
+- ...  
+```
 As [John Gruber] writes on the [Markdown site][df1]
 
 > The overriding design goal for Markdown's
