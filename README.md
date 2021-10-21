@@ -22,17 +22,20 @@ Thời gian bắt đầu: Ngày 21 tháng 10 năm 2021
 - Hỗ trợ nhập liệu bằng file Excel
 - Có thể xuất file Excel điểm của từng bài thi
 - Câu hỏi phân loại theo mức độ: dễ, khó, trung bình, và phân loại theo chương: 1, 2, 3,...
-- ...  
 ```
-As [John Gruber] writes on the [Markdown site][df1]
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+#### Sắp Có
+
+```
+- Thêm tùy chọn nhập bộ câu hỏi từ file word. (Cảm ơn bạn tranphong965@gmail.com)
+- Giáo viên có thể thêm câu hỏi vào ngân hàng đề (admin sẽ duyệt câu hỏi)
+- Thêm người dùng mới "Giáo viên bộ môn" (formype@gmail.com)
+- Hiển thị số tin nhắn chat, thông báo chưa đọc
+- Thêm tự động cập nhật phiên bản phần mềm
+- Thêm logs lưu vết tất cả các thông tin liên quan đến việc thay đổi dữ liệu trong cơ sở dữ liệu
+- Thêm nhiều dạng bài tập trắc nghiệm hơn
+- Hỡ trợ nhiều dạng thông tin có trong câu hỏi hơn như âm thanh, video...
+```
 
 This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
