@@ -16,7 +16,7 @@ Thời gian bắt đầu: Ngày 21 tháng 10 năm 2021
 ```
 - Dễ dàng cài đặt và quản lý, không cần kiến thức lập trình
 - Giao diện làm bài trực quan, hỗ trợ hiển thị công thức LaTeX
-- Tự động lưu trạng thái làm bài của học sinh, thoát ra vào lại không bị mất bài đang làm
+- Tự động lưu trạng thái làm bài của Sinh Viên, thoát ra vào lại không bị mất bài đang làm
 - Có thể xem điểm và xem lại bài thi sau khi nộp bài
 - Hỗ trợ nhập công thức bằng LaTeX
 - Hỗ trợ nhập liệu bằng file Excel
