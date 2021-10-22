@@ -38,5 +38,5 @@ Thời gian bắt đầu: Ngày 21 tháng 10 năm 2021
 ```
 
 <p align="center">
-<a href="url"  target="_blank">Hướng Dẫn Sử Dụng</a>
+<a href="http://vohuykhang.freevnn.com/res/files/HuongDan.pptx"  target="_blank">Hướng Dẫn Sử Dụng</a>
 </p>
