@@ -37,4 +37,5 @@ Thời gian bắt đầu: Ngày 21 tháng 10 năm 2021
 - Hỡ trợ nhiều dạng thông tin có trong câu hỏi hơn như âm thanh, video...
 ```
 
+#### copy đường dẫn dưới dán ra trang mới
 http://vohuykhang.freevnn.com/res/files/HuongDan.pptx
